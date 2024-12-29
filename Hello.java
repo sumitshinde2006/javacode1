@@ -8,6 +8,8 @@ public class Hello{
 		System.out.println("git remote add origin https://github.com/your-username/HelloWorldApp.git");
 		System.out.println("git branch -M main");
 		System.out.println("git push -u origin main");
+		System.out.println("git push --force origin main");
+
 
 	}
 }
